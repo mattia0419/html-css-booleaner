@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.container{
+    max-width: 100%;
+    margin: 0%;
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+    height: 80px;
+    width: 100%;
+    background-repeat: repeat-x;
+    background-size: 300px;
+}
+.logo{
+    width: 150px;
+    margin-top: 2%;
+}
+img{
+    max-width: 100%;
+}
