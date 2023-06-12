@@ -25,3 +25,13 @@ img{
 .small-font{
     font-size: 10px;
 }
+table{
+    
+    border-spacing: 0;
+
+
+}
+thead{
+    color: white;
+    text-align: left;
+}
