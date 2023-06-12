@@ -35,3 +35,17 @@ thead{
     color: white;
     text-align: left;
 }
+.footer1{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    width: 300px;
+    height: 200px;
+    font-size: 19px;
+}
+.footer2{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    width: 300px;
+    height: 200px;
+    font-size: 19px;
+}
